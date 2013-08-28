@@ -1,0 +1,12 @@
+/* XPM */
+static char * VA_xpm[] = {
+"6 6 5 6",
+"red 	c #b10000",
+"blue 	c #3b5998",
+"yellow	c #f2b844",
+"green 	c #8bad53", 
+"      	c #ffffff", 
+"red   ",
+"blue  ",                                 ",
+"yellow",
+"green ",
