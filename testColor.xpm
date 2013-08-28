@@ -1,0 +1,18 @@
+/* XPM */
+static char *bart_xpm[] = {
+"21 7 6 1",
+
+" m None c None s None",
+". m black c black",
+"X m white c #faf080",
+"o m white c white",
+"O m white c red s Shirt",
+"+ m white c blue s Shorts",
+
+"+.....XXXoOoXXX.....+",
+"+.....XXXoOoXXX.....+",
+"+.....XXXoOoXXX.....+",
+"+.....XXXoOoXXX.....+"
+"+.....XXXoOoXXX.....+",
+"+.....XXXoOoXXX.....+",
+"+.....XXXoOoXXX.....+"},
